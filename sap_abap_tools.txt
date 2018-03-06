@@ -1,7 +1,7 @@
 RS_ABAP_SOURCE_SCAN
 SE30 / SAT - Code inspector
 ST05 - SQL Trace
-
+SM37, SM36 - job definition and overwiev
 
 Tables:
 TBTC_SPOOLID - hold spool id and background job name
