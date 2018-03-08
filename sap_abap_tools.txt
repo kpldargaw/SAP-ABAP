@@ -1,7 +1,31 @@
 RS_ABAP_SOURCE_SCAN
 SE30 / SAT - Code inspector
 ST05 - SQL Trace
-SM37, SM36 - job definition and overwiev
+
+==========================================
+|Background Jobs Administration:          |
+------------------------------------------
+ 
+SM36 Define Background Job  
+SM37 Background Job Overview  
+SM39 Job Analysis
+SM49 Execute External OS commands
+SM62 Maintain Events
+SM64 Release of an Event
+SM65 Background Processing Analysis Tool  
+SM69 Maintain External OS Commands
+SM36 Define Background Job 
+SM37 Background Job Overview 
+SM39 Job Analysis
+SM49 Execute External OS commands
+SM62 Maintain Events
+SM64 Release of an Event
+SM65 Background Processing Analysis Tool 
+SM69 Maintain External OS Commands
+==========================================
+
 
 Tables:
 TBTC_SPOOLID - holds spool id and background job name
+
+
